@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
-div{
-	width:300px;
+.test_body{
+	border:1px solid black;
+}
+.test{
 	background-color:lightblue;
 	border:15px solid blue;
 	padding:50px;
